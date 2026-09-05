@@ -43,7 +43,7 @@
 
 ## 7. 결과 보기
 
-- [데이터 분석 대시보드](https://사용자이름.github.io/저장소이름/)
+- [데이터 분석 대시보드](https://g20264003-pixel.github.io/bike/)
 - [1차시 노트북](notebooks/01_data_analysis.ipynb)
 - [2차시 노트북](notebooks/02_ai_dashboard.ipynb)
 
